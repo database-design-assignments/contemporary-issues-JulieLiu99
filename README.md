@@ -1,4 +1,4 @@
-```markdown
+
 # Mobile Phone Data and COVID-19
 In this document, I discuss two articles about the collecation and usage of mobile phone data during the COVID-19 pandemic. I present and discuss two aspects on this important matter: mobile data for revealing the effect of social distancing on the spread of the COVID-19 pandemic and for informing public health actions across it.
 
@@ -11,4 +11,3 @@ I am very impressed that this study builds a web-based mapping platform that int
 In addition to the findings made in JAMA Network Open's piece on the issue, Science Advances's [Mobile phone data for informing public health actions across the COVID-19 pandemic life cycle](https://advances.sciencemag.org/content/6/23/eabc0764/) outlines more ways in which different types of mobile phone data can help to better target and design measures to contain and slow the spread of the COVID-19 pandemic. On the other hand, very interestingly, the article also discusses why the use of mobile phone data remains relatively scarce for tackling the COVID-19 pandemic. 
 
 Among all the reasons listed, concerns regarding privacy, data protection and civil liberties might first appear as a common issue for all kinds of data-based applications. However, different from the normal commercial data collections, more comprehensive tracking of personal data in surveillance tools might be justified for the cause of pandemic. Such enhanced access to data by the governments and tech companies could then easily persist beyond emergency times and usages, and to the disadvantage of individual users.
-```

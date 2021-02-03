@@ -1,3 +1,6 @@
+" Set text width as 72.
+autocmd Filetype markdown set tw=72
+
 ```markdown
 # Mobile Phone Data and COVID-19
 In this document, I discuss two articles about the collecation and usage of mobile phone data during the COVID-19 pandemic. I present and discuss two aspects on this important matter: mobile data for revealing the effect of social distancing on the spread of the COVID-19 pandemic and for informing public health actions across it.

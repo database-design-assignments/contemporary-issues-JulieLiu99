@@ -1,6 +1,6 @@
 
 # Mobile Phone Data and COVID-19
-In this document, I discuss two articles about the collecation and usage of mobile phone data during the COVID-19 pandemic. I present and discuss two aspects on this important matter: mobile data for revealing the effect of social distancing on the spread of the COVID-19 pandemic and for informing public health actions across it.
+In this document, I discuss two articles about the collecation and usage of mobile phone data during the COVID-19 pandemic. I present and discuss two aspects on this important matter: mobile data for revealing the effect of social distancing on the spread of the COVID-19 pandemic and the debates sorrounding whether  it should be used widely to inform public health actions.
 
 ## Article 1
 JAMA Network Open's [Mobile phone location data reveal the effect and geographic variation of social distancing on the spread of the COVID-19 epidemic](https://arxiv.org/abs/2004.11430) employs large-scale anonymous mobile phone location data provided by Descartes Labs and SafeGraph to derive users' daily travel distance and stay-at-home time. With the data it is able to analyze the degree to which social distancing mandates have been followed in the U.S. and its effect on growth of COVID-19 cases. The paper reaches a conclusion that social distancing mandates reduce the spread of COVID-19 when they are followed.

@@ -1,19 +1,14 @@
-# Contemporary Issues In Data
-
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
-
-
-# Cambridge Analytica's Use of Facebook Users' Data to Influence the 2016 Presidential Election
-In this document, I discuss two articles about Cambridge Analytica's mining of Facebook data and the claims made by some that it altered the course of the 2016 US Presidential Election.  I present and discuss two opposing views on this important matter.
+```markdown
+# Mobile Phone Data and COVID-19
+In this document, I discuss two articles about the collecation and usage of mobile phone data during the COVID-19 pandemic. I present and discuss two aspects on this important matter: mobile data for revealing the effect of social distancing on the spread of the COVID-19 pandemic and for informing public health actions across it.
 
 ## Article 1
-In NPR's [What Did Cambridge Analytica Do During The 2016 Election?](https://www.npr.org/2018/03/20/595338116/what-did-cambridge-analytica-do-during-the-2016-election), est et vitae rem excepturi voluptatem reprehenderit. At deserunt necessitatibus natus minus dignissimos qui adipisci. Sapiente incidunt vero deserunt sunt nam. Reiciendis laborum. Ea ab omnis porro nihil. Corrupti similique dignissimos dignissimos soluta dolor. Facere vel repudiandae qui non velit.
+JAMA Network Open's [Mobile phone location data reveal the effect and geographic variation of social distancing on the spread of the COVID-19 epidemic](https://arxiv.org/abs/2004.11430) employs large-scale anonymous mobile phone location data provided by Descartes Labs and SafeGraph to derive users' daily travel distance and stay-at-home time. With the data it is able to analyze the degree to which social distancing mandates have been followed in the U.S. and its effect on growth of COVID-19 cases. The paper reaches a conclusion that social distancing mandates reduce the spread of COVID-19 when they are followed.
 
-Vero nesciunt culpa natus est veniam qui. Debitis est ut mollitia sit assumenda vel atque voluptas. Officiis fugit veniam enim. A quisquam omnis commodi nemo officiis aspernatur recusandae. Rerum aut placeat nesciunt placeat deleniti. Fugiat cumque dolores sequi et iste deleniti perferendis. Vitae et maxime aperiam est molestias id. Eligendi et sint quibusdam et excepturi. Totam facilis eius est.
+I am very impressed that this study builds a web-based mapping platform that integrates geographic information systems (GIS) and daily updated human mobility statistical patterns derived from large-scale smartphone location big data. This article demonstrates that effective collection and anlysis of data could help reveal scientific truth, increase public awareness on critical issues, and support governmental decision-makings. 
 
 ## Article 2
-Contrary to the claims made in NPR's piece on the issue, Reason magazine's [Cambridge Analytica, the Election Interference Operation That Wasn't](https://reason.com/2020/11/03/cambridge-analytica-the-election-interference-operation-that-wasnt/) sint dignissimos id libero ipsum facere sit ducimus. Fugit quia excepturi voluptas soluta. Nobis ut omnis dolor quod quae ad dolor inventore. Sint tenetur ab voluptatum sequi. Ad eligendi reprehenderit ut optio. Cumque aspernatur unde numquam enim suscipit. Quod aliquid et eaque eius unde atque distinctio consequatur. Laudantium consequatur voluptatibus quidem velit sint quaerat. Rem magni vel ut soluta voluptatum commodi iusto aliquid.
+In addition to the findings made in JAMA Network Open's piece on the issue, Science Advances's [Mobile phone data for informing public health actions across the COVID-19 pandemic life cycle](https://advances.sciencemag.org/content/6/23/eabc0764/) outlines more ways in which different types of mobile phone data can help to better target and design measures to contain and slow the spread of the COVID-19 pandemic. On the other hand, very interestingly, the article also discusses why the use of mobile phone data remains relatively scarce for tackling the COVID-19 pandemic. 
 
-Adipisci veniam voluptatem et dolorum nobis placeat. Sed qui similique corrupti aut. Veniam eum modi ipsam non dolor aliquam. Ut mollitia animi labore velit fuga soluta est quibusdam. Facere et assumenda quod nesciunt est culpa.
-
-Sit sunt exercitationem eum molestiae et perspiciatis et consequuntur. Aut aut maxime expedita in enim. Voluptatem quos sunt qui. Sed cupiditate et sit vero eum aspernatur ipsa porro.
+Among all the reasons listed, concerns regarding privacy, data protection and civil liberties might first appear as a common issue for all kinds of data-based applications. However, different from the normal commercial data collections, more comprehensive tracking of personal data in surveillance tools might be justified for the cause of pandemic. Such enhanced access to data by the governments and tech companies could then easily persist beyond emergency times and usages, and to the disadvantage of individual users.
+```
